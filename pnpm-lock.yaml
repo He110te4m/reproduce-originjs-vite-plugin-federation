@@ -581,7 +581,7 @@ importers:
   packages/examples/vue3-demo-esm:
     devDependencies:
       '@originjs/vite-plugin-federation':
-        specifier: workspace:*
+        specifier: 1.2.3
         version: link:../../lib
       kill-port:
         specifier: ^2.0.1
@@ -703,9 +703,6 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@originjs/vite-plugin-federation':
-        specifier: workspace:^
-        version: link:../../../lib
       '@vitejs/plugin-vue':
         specifier: ^4.0.0
         version: 4.0.0(vite@4.0.5)(vue@3.2.45)
@@ -722,9 +719,6 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@originjs/vite-plugin-federation':
-        specifier: workspace:^
-        version: link:../../../lib
       '@vitejs/plugin-vue':
         specifier: ^4.0.0
         version: 4.0.0(vite@4.0.5)(vue@3.2.45)
@@ -750,9 +744,6 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@originjs/vite-plugin-federation':
-        specifier: workspace:^
-        version: link:../../../lib
       '@vitejs/plugin-vue':
         specifier: ^4.0.0
         version: 4.0.0(vite@4.0.5)(vue@3.2.45)
@@ -772,9 +763,6 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@originjs/vite-plugin-federation':
-        specifier: workspace:^
-        version: link:../../../lib
       '@vitejs/plugin-vue':
         specifier: ^4.0.0
         version: 4.0.0(vite@4.0.5)(vue@3.2.45)
@@ -791,9 +779,6 @@ importers:
         specifier: ^3.2.45
         version: 3.2.45
     devDependencies:
-      '@originjs/vite-plugin-federation':
-        specifier: workspace:^
-        version: link:../../../lib
       '@vitejs/plugin-vue':
         specifier: ^4.0.0
         version: 4.0.0(vite@4.0.5)(vue@3.2.45)
